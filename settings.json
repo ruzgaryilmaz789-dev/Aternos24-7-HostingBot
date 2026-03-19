@@ -1,13 +1,13 @@
 {
   "name": "Aternost",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Aternos247AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "KaradutluAvsars-80cr.aternos.me",
-    "port": 11827,
+    "ip": "RTOokulsmp.aternos.me",
+    "port": 60149,
     "version": "",
     "try-creative": false
   },
